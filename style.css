@@ -1,0 +1,300 @@
+*{
+    padding:0px;
+}
+body {
+    background-color: #EEE7DB;
+    margin:0px;
+}
+
+main {
+    margin-right:0px;
+}
+li {
+    list-style-type: none;
+}
+
+p {
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 500;
+    width:60vw;
+}
+
+.potloden {
+    top:0;
+    height:70px;
+    margin-right:0px;
+    margin-left:0px;
+    width:375px;
+}
+
+
+.logo {
+    height:220px;
+    width:350px;
+    margin-left:1.7em;
+    margin-right:auto;
+   
+}
+
+.schilderij {
+    height:430px;
+    width:355px;
+    margin-top:20px;
+    margin-left:11px;
+    margin-bottom:50px;
+
+}
+
+.inhoudschilderij {
+    margin-top:-280px;
+    margin-left:40px;
+    margin-bottom:50px;
+    width:80svw;
+
+}
+
+.overons {
+    font-size:3em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left:2em;
+    margin-top:2em;
+    margin-bottom:0.5em;
+    color:#E97D7D;
+}
+.kast {
+    height:700px;
+    width:340px;
+    margin-left:18px;
+    margin-bottom:100px;
+}
+
+.inhoudkast1 {
+    margin-top:-47.5em;
+    margin-left:60px;
+    width:50vw;
+}
+
+.inhoudkast2 {
+    margin-top:25px;
+    margin-left:55px;
+    width:70vw;
+}
+
+.inhoudkast3 {
+    margin-top:30px;
+    margin-left:160px;
+    width:40vw;
+
+}
+
+.inhoudkast4 {
+    margin-top:20px;
+    margin-left:60px;
+    width:70vw;
+}
+
+p a {
+    font-weight: 800;
+    color:black;
+}
+
+.locatie {
+    font-size:3em;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left:2.3em;
+    margin-top:-330px;
+    margin-bottom:0.5em;
+    color:#E97D7D;
+
+}
+.foto1 {
+    width:180px;
+    height:240px;
+    margin-top:300px;
+    margin-left:5px;
+}
+
+.foto2 {
+    width:180px;
+    height:240px;
+    
+}
+
+.tekst1 {
+    margin-top:280px;
+    width:90vw;
+    margin-left:9px;
+    margin-bottom:40px;
+    border: solid black;
+    padding:7px;
+    background-color: #D5B985;
+
+}
+
+.foto3 {
+    width:170px;
+    height:240px;
+    margin-left:9px;
+}
+
+.foto4 {
+    width:180px;
+    height:240px;
+}
+
+.tekst2 {
+    margin-top:10px;
+    width:90vw;
+    margin-left:9px;
+    margin-bottom:170px;
+    border: solid black;
+    padding:7px;
+    background-color: #D5B985;
+}
+
+.logoklein {
+    width:90px;
+    height:90px;
+    margin-left:8px;
+    margin-top:10px;
+
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    font-size:4.5em;
+    margin-top:-90px;
+    margin-left:2em;
+    margin-bottom:20px;
+    color:#BB4B9C;
+   
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+
+}
+.regel1{
+    width:250px;
+    height:270px;
+    margin-top:20px;
+    margin-left:2.5em;
+}
+
+.inhoudregel1 {
+    margin-top:-205px;
+    margin-left:110px;
+    width:35vw;
+}
+
+.regel2 {
+    width:330px;
+    height:270px;
+    margin-top:40px;
+    margin-left:2.5em;
+}
+
+.inhoudregel2 {
+    margin-top:-220px;
+    width:40vw;
+    margin-left:105px;
+}
+
+.regel3 {
+    width:250px;
+    height:270px;
+    margin-top:40px;
+    margin-left:2.5em;
+}
+
+.inhoudregel3 {
+    margin-top:-203px;
+    margin-left:110px;
+    width:40vw;
+}
+.regel4 {
+    width:320px;
+    height:270px;
+    margin-top:60px;
+    margin-left:2.5em;
+    margin-bottom:150px;
+}
+
+.inhoudregel4 {
+    margin-top:-355px;
+    margin-left:107px;
+    width:40vw;
+
+}
+
+.contact {
+    margin-left:1.7em;
+}
+
+.spraakwolkje {
+    width:290px;
+    height:290px;
+    margin-left:1em;
+}
+
+.mezelf {
+    width:300px;
+    height:300px;
+    margin-bottom:50px;
+
+}
+
+.inhoudspraakwolkje {
+    margin-top:-240px;
+    margin-left:3.3em;
+}
+
+.telefoon {
+    margin-top:20px;
+    margin-left:3.3em;
+}
+
+.email {
+    margin-top:5px;
+    margin-left:3.5em;
+}
+nav {
+    background-image: url(images/wolkjenavbar.png);
+    background-size:cover;
+}
+footer nav ul img {
+    width:60px;
+    height:52px;
+    margin-bottom:0;
+}
+
+nav ul {
+    display:flex;
+    justify-content: space-around;
+    gap: 1em;
+    padding-top:46px;
+    padding-bottom:8px;
+    margin-bottom:0%;
+    
+}
+
+nav a {
+    font-family: Chalkduster;
+    text-decoration: none;
+    color:black;
+    font-size:larger;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+footer {
+    position:fixed;
+    bottom:0;
+    width: 100%;
+}
